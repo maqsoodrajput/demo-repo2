@@ -41,6 +41,9 @@ Right now this is not a git repo or connected to your git or GitHub account. To 
 
 ~$ git push --set-upstream origin <branch>
 
+- Once you have set the upstream you can then just simply do:
+
+~$ git push
 
 --> for futher reading look up GitHub's official page:
 https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
